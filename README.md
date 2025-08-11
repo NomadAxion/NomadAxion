@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🌍 Nomad Axion — Code Without Borders
 
-<!--
-**NomadAxion/NomadAxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I build apps that feel like home and look like art."*
 
-Here are some ideas to get you started:
+Hi, I’m **Nomad Axion** (Karabo) — a self-taught developer blending culture, creativity, and code.  
+I believe technology should not only work well, but **tell a story**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Currently Learning
+- **Front-End Development** – Codecademy
+- **Full-Stack Development** – freeCodeCamp
+- **Scalable Web Apps** – FNB App Academy alumni (32 credits earned)
+
+---
+
+## 🚀 Projects
+### ✨ Cultural & Creative
+- **Nguni Name Generator** → Interactive cultural name tool with filtering and design  
+- **KhanyaFlare** → Social media + spiritual wellness platform (WIP)
+
+### 📚 Professional & Academic
+- **FNB App Academy Assignments** – Full-stack fundamentals  
+- **Celestial by UK** – Private Makeup & Hair Artist site (client project)
+
+---
+
+## 🛠 Tech Stack
+**Languages & Frameworks**  
+HTML • CSS • JavaScript • Python • Flask • Bootstrap
+
+**Tools & Platforms**  
+Git • GitHub • Netlify • Phoenix editor • VS Code
+
+---
+
+## 📊 GitHub Stats
+
+
+---
+
+## 🎯 2025 Goals
+- Complete my social media app  
+- Launch open-source Nguni Name Generator  
+- Contribute to Afro-tech community projects  
+
+---
+
+## 🎤 Fun Facts
+- My code has *vibes* — expect gradient buttons and heritage motifs  
+- Still learning, still experimenting, still shipping projects  
+- Believes in **"Code. Conquer. Repeat."**
+
+---
